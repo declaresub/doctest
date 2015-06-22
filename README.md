@@ -1,5 +1,5 @@
 # DocTest
 
-## [AppKit](docs/AppKit.md)
+* [AppKit](docs/AppKit.md)
 
-## Core Foundation
+* Core Foundation
